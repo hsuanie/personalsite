@@ -1,0 +1,51 @@
+/* this is a comment  */
+
+
+body {
+    background-color: sandybrown;
+    font-family: sans-serif;
+} 
+
+
+#name {
+    front-size: 30px;
+    margin:30px;
+}
+
+section{
+    margin: 30px 30px 30px 30px;
+    background-color: grey
+    padding:50px; 
+}
+
+ul{
+    margin:30;
+    padding:30;
+}
+
+
+h1 ,
+p,{
+    color:black;
+    font-weight: 800;
+}
+.redheaders{
+    color: black;
+}
+
+section{
+    margin: 20px 30px 30px 30px;
+    margin-left: 200;
+    background-color: transparent
+
+
+.example {
+    background-color: transparent;
+    width: 620px;
+    height: 345px;
+    margin-left: 50px;
+    border-style: solid;
+    border-color: transparent
+}
+
+
